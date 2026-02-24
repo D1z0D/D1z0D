@@ -4,9 +4,11 @@
 [![English](https://img.shields.io/badge/English-100%25-red)](README.md)
 [![Russian](https://img.shields.io/badge/Русский-100%25-blue)](README_ru.md)
 
-I'm 16 y.o. and I love 3 things: my PC, my Arch Linux and myself :)
+---
+### About me:
+#### I'm 16 y.o. and I love 3 things: my PC, my Arch Linux and my Obsidian :)
 
-Welcome to my GitHub profile! 🚀
+#### Welcome to my GitHub profile! 🚀
 
 ---
 
