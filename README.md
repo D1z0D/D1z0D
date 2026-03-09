@@ -1,4 +1,4 @@
-# Hi, I'm D1z0D! 👋
+# Hi, I'm D1zplay! 👋
 
 ### 🌍 Languages 
 [![English](https://img.shields.io/badge/English-100%25-red)](README.md)
