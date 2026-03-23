@@ -1,4 +1,4 @@
-# Привет, я D1zplay! 👋
+# Привет, я krigzen! 👋
 
 ### 🌍 Languages 
 [![English](https://img.shields.io/badge/English-100%25-red)](README.md)
