@@ -6,7 +6,7 @@
 
 ---
 ### About me:
-#### I'm 16 y.o. and I love 3 things: my PC, my Arch Linux and my Obsidian :)
+#### I'm 17 y.o. and I love 3 things: my laptop, my Arch Linux and my Obsidian :)
 
 #### Welcome to my GitHub profile! 🚀
 
